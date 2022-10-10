@@ -24,7 +24,7 @@ Durante el proceso de instalación se le solicitará su **Datadog API KEY**. Est
 ---
 ### Nueva instalación (interactiva)
 
-`Los parámetros de los comandos ya vienen especificados en las instrucciones de inicio rápido dentro de su instancia de Datadog.`
+`Los parámetros de los comandos ya vienen especificados en las instrucciones de inicio rápido (IN-APP) dentro de su instancia de Datadog.`
 
 1.  Descargue el [instalador de Datadog Agent](https://s3.amazonaws.com/ddagent-windows-stable/datadog-agent-7-latest.amd64.msi).
 
@@ -41,7 +41,7 @@ Durante el proceso de instalación se le solicitará su **Datadog API KEY**. Est
 ---
 ### Instalación nueva (unattended)
 
-`Los parámetros de los comandos ya vienen especificados en las instrucciones de inicio rápido dentro de su instancia de Datadog.`
+`Los parámetros de los comandos ya vienen especificados en las instrucciones de inicio rápido (IN-APP) dentro de su instancia de Datadog.`
 
 1.  [Descargue el instalador de Datadog Agent](https://s3.amazonaws.com/ddagent-windows-stable/datadog-agent-7-latest.amd64.msi).
 
